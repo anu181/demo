@@ -1,3 +1,4 @@
 <?php
-echo "hello mysqli";
+echo "hello database";
 ?>
+
